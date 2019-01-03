@@ -1,6 +1,8 @@
 # StockSummer
 Summing stocks in Excel with VBA code.
 
+![screenshot](https://github.com/ejhagee/StockSummer/blob/master/2016%20Screenshot%20Hard.png)
+
 ## Description
 - The topic is to summarize stock data for various years, and then to search for the greatest % increases/decreases in stock price and greatest stock volume traded.
  - The main raw data file is found in "Multiple_year_stock_data.xlsx", however at this time it is to large to upload to Github.
